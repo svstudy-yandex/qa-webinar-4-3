@@ -8,6 +8,7 @@ public class InMemoryHistoryManager implements HistoryManager {
     private static final int MAX_HISTORY_COUNT = 10;
     @Override
     public List<Task> getHistory() {
+        //...
         return null;
     }
 
