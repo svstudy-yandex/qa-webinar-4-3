@@ -6,7 +6,7 @@ public class Converter {
         return 0;
     }
 
-    public double stepsToKcal(int steps) {
+    public static double stepsToKcal(int steps) {
         return steps * 50 * 1000;
     }
 }
